@@ -1,22 +1,41 @@
-# aval - 中文版
+<div align="center">
 
-> **原项目 / Original:** [pixel-point/aval](https://github.com/pixel-point/aval)
->
-> **代部署/定制服务请联系微信：uaycar**
+# aval 中文版
+
+**[中文版] Aval — 开源交互式视频格式，内置状态机与帧精确转场**
+
+[![原项目](https://img.shields.io/badge/原项目-pixel-point--aval-blue?style=flat-square&logo=github)](https://github.com/pixel-point/aval)
+[![微信联系](https://img.shields.io/badge/微信-uaycar-brightgreen?style=flat-square&logo=wechat)](#)
+
+</div>
 
 ---
 
-## 关于本项目
+## 项目简介
 
-本项目是 **[aval](https://github.com/pixel-point/aval)** 的中文翻译版本。
+Aval 是一种新的开源交互式视频格式。它内置了状态机、帧精确转场效果和丰富的交互功能，为 Web 端视频体验带来全新可能。
 
-🔗 **完整源代码请访问原项目：** https://github.com/pixel-point/aval
+## 相关链接
+
+| 链接 | 说明 |
+|:-----|:-----|
+| [原项目](https://github.com/pixel-point/aval) | 完整源代码，请访问原项目获取 |
+| [原版 README](README.md) | 英文原版说明文档 |
 
 ## 快速开始
 
-请参考 [原项目 README](https://github.com/pixel-point/aval) 获取完整的安装和使用说明。
+完整源代码请访问原项目：https://github.com/pixel-point/aval
+
+请参考原项目的 README 获取完整的安装和使用说明。
+
+---
 
 ## 联系方式
 
-- 📱 微信：**uaycar**
-- 🔗 原项目：https://github.com/pixel-point/aval
+**代部署 / 定制服务 / 技术咨询 请添加微信：uaycar**
+
+---
+
+本项目为 [pixel-point/aval](https://github.com/pixel-point/aval) 的中文翻译版本，所有代码版权归原作者所有。
+
+**如果觉得有用，请给原项目点个 Star！**
